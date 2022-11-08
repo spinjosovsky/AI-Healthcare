@@ -66,6 +66,3 @@ This repository contains the solutions to the AI for Medicine Specialization cou
     - [Introduction To GradCAM (Part 1)](https://github.com/spinjosovsky/AI-Healthcare/tree/main/AI%20for%20Medical%20Treatment/Week%203/Ungraded%20Lab/Introduction%20To%20GradCAM%20(Part%201).pdf)
     - [GradCAM Continuation (Part 2)](https://github.com/spinjosovsky/AI-Healthcare/tree/main/AI%20for%20Medical%20Treatment/Week%203/Ungraded%20Lab/GradCAM%20Continuation%20(Part%202).pdf)    
   - [**Model Interpretation Methods**](https://github.com/spinjosovsky/AI-Healthcare/tree/main/AI%20for%20Medical%20Treatment/Week%203/Model%20Interpretation%20Methods.ipynb) | [Pdf Version](https://github.com/spinjosovsky/AI-Healthcare/tree/main/AI%20for%20Medical%20Treatment/Week%203/Model%20Interpretation%20Methods.pdf)
-### `Certificate`<br>
-> <img src="https://github.com/spinjosovsky/AI-Healthcare/tree/main/Certificate/Certificate.jpg" width=400px height=300px>
-![image](https://user-images.githubusercontent.com/10547018/200509455-9cc95028-c880-471b-9c69-c4243fb04d7a.png)
