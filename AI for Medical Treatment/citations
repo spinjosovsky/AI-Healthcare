@@ -1,0 +1,26 @@
+Week 1
+Levamisole and Fluorouracil background: https://www.nejm.org/doi/full/10.1056/NEJM199002083220602
+
+Data sourced from here: https://www.rdocumentation.org/packages/survival/versions/3.1-8/topics/colon
+
+C-statistic for benefit: https://www.ncbi.nlm.nih.gov/pubmed/29132832
+
+T-learner: https://arxiv.org/pdf/1706.03461.pdf
+
+Week 2
+Labeling methods and dataset: https://arxiv.org/abs/1901.07031
+
+Huggingface transformers library: https://github.com/huggingface/transformers
+
+BERT paper: https://arxiv.org/abs/1810.04805
+
+Question answering data set (used for example): https://rajpurkar.github.io/SQuAD-explorer/
+
+Week 3
+Grad cam: https://arxiv.org/pdf/1610.02391.pdf
+
+Random forests + permutation importance: https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf (R45f14345c000-1 Breiman, “Random Forests”, Machine Learning, 45(1), 5-32, 2001.)
+
+Shapley importance: https://www.nature.com/articles/s42256-019-0138-9
+
+Clinical note example for question answering: https://www.mtsamples.com/
